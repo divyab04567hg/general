@@ -4,4 +4,8 @@ habba matina
 git fit
 git fitf fns
 madina
+<<<<<<< HEAD
 hey yo
+=======
+ellle
+>>>>>>> eab1a50 (gggg)
